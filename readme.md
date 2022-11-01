@@ -1,4 +1,4 @@
-# Project 2 Movies Variable Correlation Project
+# Project Movies Variable Correlation Project
 ### Filippo Testa & Giuseppe Schillaci
 
 ## ANALISI DI DATI MOVIES INDUSTRIES 
